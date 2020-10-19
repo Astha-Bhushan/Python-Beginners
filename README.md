@@ -80,7 +80,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       43. Program to Calculate Average Using Arrays 
       44. Program to Find Largest Element in an Array
       45. Program to Calculate Standard Deviation
-      46. Program to Add Two Matrices Using Multi-dimensional Arrays - Remaining
+      46. Program to Add Two Matrices Using Multi-dimensional Arrays
       47. Program to Multiply to Matrix Using Multi-dimensional Arrays
       48. Program to Find Transpose of a Matrix
       49. Program to Multiply two Matrices by Passing Matrix to a Function - Remaining
@@ -90,4 +90,4 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       
         
 # Note : Questions with Remaining next to them are yet to be solved. The PRs will be accepted on a First Come First Serve Basis
-Remaining question are : 8,13,33,38,40,46,49
+Remaining question are : 8,33,38,40,49
