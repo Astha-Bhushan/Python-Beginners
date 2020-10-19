@@ -87,7 +87,5 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       50. Program to Find the Frequency of Characters in a String
       -----------------------------------------------------------------------------------------------------------------------------------
 
-      
-        
-# Note : All questions are solvedd. No more PRs are accepted. Happy Coding !!
+# Note : All questions are solved. No more PRs are accepted. Happy Coding !!
 Remaining question are : None
