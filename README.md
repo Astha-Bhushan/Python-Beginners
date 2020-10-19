@@ -74,7 +74,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       37. Program to Find G.C.D Using Recursion 
       38. Program to Convert Binary Number to Decimal
       39. Program to Convert Octal Number to Decimal 
-      40. Program to Convert Binary Number to Octal and vice-versa - Remaining
+      40. Program to Convert Binary Number to Octal and vice-versa
       41. program to Reverse a Sentence Using Recursion
       42. program to calculate the power using recursion
       43. Program to Calculate Average Using Arrays 
@@ -83,11 +83,11 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       46. Program to Add Two Matrices Using Multi-dimensional Arrays
       47. Program to Multiply to Matrix Using Multi-dimensional Arrays
       48. Program to Find Transpose of a Matrix
-      49. Program to Multiply two Matrices by Passing Matrix to a Function - Remaining
+      49. Program to Multiply two Matrices by Passing Matrix to a Function
       50. Program to Find the Frequency of Characters in a String
       -----------------------------------------------------------------------------------------------------------------------------------
 
       
         
-# Note : Questions with Remaining next to them are yet to be solved. The PRs will be accepted on a First Come First Serve Basis
-Remaining question are : 40,49
+# Note : All questions are solvedd. No more PRs are accepted. Happy Coding !!
+Remaining question are : None
