@@ -47,7 +47,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       10. Program to Check Whether a Number is Even or Odd 
       11. Program to Check Whether a Character is Vowel or Consonant 
       12. Program to Find the Largest Number Among Three Numbers 
-      13. Program to Find all Roots of a Quadratic Equation provided a,b,c - Remaining
+      13. Program to Find all Roots of a Quadratic Equation provided a,b,c
       14. Program to Check Leap Year
       15. Program to Check Whether a Number is Positive or Negative
       16. Program to Check Whether a Character is an Alphabet or not
